@@ -8,3 +8,14 @@ C:\Users\hakus\ドキュメント\Make_C#app\Etangoapp\Etangoapp\obj\Debug\Etang
 C:\Users\hakus\ドキュメント\Make_C#app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.csproj.CoreCompileInputs.cache
 C:\Users\hakus\ドキュメント\Make_C#app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.exe
 C:\Users\hakus\ドキュメント\Make_C#app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.pdb
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\bin\Debug\Etangoapp.exe.config
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\bin\Debug\Etangoapp.exe
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\bin\Debug\Etangoapp.pdb
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.csproj.AssemblyReference.cache
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.Form1.resources
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.Properties.Resources.resources
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.csproj.GenerateResource.cache
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.csproj.CoreCompileInputs.cache
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.exe
+C:\Users\hakus\ドキュメント\Make_CSharp_app\Etangoapp\Etangoapp\obj\Debug\Etangoapp.pdb

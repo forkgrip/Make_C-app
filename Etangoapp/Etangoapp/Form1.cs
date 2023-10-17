@@ -16,5 +16,15 @@ namespace Etangoapp
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void testbBottonClicked(object sender, EventArgs e)
+        {
+            this.testandanswer.Text = "Answerd";
+        }
     }
 }
